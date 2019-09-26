@@ -1,0 +1,39 @@
+{
+  "name": "learning-gulp-and-npm",
+  "version": "1.0.0",
+  "description": "Learning gulp and npm",
+  "main": "index.js",
+  "dependencies": {
+    "D": "^1.0.0",
+    "combined-stream": "^1.0.8",
+    "core-util-is": "^1.0.2",
+    "cssnano": "^4.1.10",
+    "currently-unhandled": "^0.4.1",
+    "dashdash": "^1.14.1",
+    "decamelize": "^1.2.0",
+    "decode-uri-component": "^0.2.0",
+    "default-compare": "^1.0.0",
+    "default-resolution": "^2.0.0",
+    "delayed-stream": "^1.0.0",
+    "delegates": "^1.0.0",
+    "detect-file": "^1.0.0",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gup": "^2.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "gulp-imagemin": "^6.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariamkhalifa/LearningGulpANDNPM.git"
+  },
+  "keywords": [],
+  "author": "me",
+  "license": "ISC"
+}
